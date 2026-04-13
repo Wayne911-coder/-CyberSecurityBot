@@ -23,6 +23,3 @@ jobs:
 
     - name: Build project
       run: dotnet build --no-restore
-
-    - name: Run application
-      run: dotnet run
